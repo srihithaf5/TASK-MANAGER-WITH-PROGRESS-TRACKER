@@ -69,8 +69,6 @@ Add Dark Mode
 
 <img width="1692" height="650" alt="Image" src="https://github.com/user-attachments/assets/aa58072a-bbdc-45cc-ba50-7f1e81c1d88a" />
 
-<img width="768" height="655" alt="Image" src="https://github.com/user-attachments/assets/0f2c5b22-04c1-48b4-9055-36cd34430d5b" />
-
 <img width="1698" height="778" alt="Image" src="https://github.com/user-attachments/assets/9353d132-bd90-40f6-b8de-e73715536505" />
 
 <img width="1645" height="764" alt="Image" src="https://github.com/user-attachments/assets/44ed370b-1988-4d13-a9b4-44477aab6d6b" />
